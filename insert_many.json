@@ -1,0 +1,3 @@
+{ "_id": 1, "name": "Alice", "age": 25, "city": "New York" }
+{ "_id": 2, "name": "Bob", "age": 30, "city": "San Francisco" }
+{ "_id": 3, "name": "Charlie", "age": 22, "city": "Los Angeles" }
